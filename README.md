@@ -1,3 +1,6 @@
+# READ THIS
+This was created in my CPSC411 - Mobile Device Application class at CSUF. I worked on this repository to learn about Swift programming in order to start learning how to develop applications for iOS devices. 
+
 # SafeWalkVolunteer
 In this activity we will create a simple application that asks the user to provide their information to volunteer to the SafeWalk program. It helps monitor crosswalks to keep children safe on their way to school/home.
 
